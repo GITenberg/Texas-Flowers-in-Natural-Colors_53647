@@ -1,0 +1,25 @@
+_repo: Texas-Flowers-in-Natural-Colors_53647
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whitehouse, Eula
+    birthdate: 1892
+    deathdate: 1974
+    gutenberg_agent_id: '47476'
+    url: http://www.gutenberg.org/2009/agents/47476
+description: ''
+gutenberg_issued: '2016-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53647'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QK'
+- !lcsh 'Wild flowers -- Texas'
+- !lcsh 'Wild flowers -- Southwestern States'
+- GITenberg
+title: Texas Flowers in Natural Colors
+url: http://www.gutenberg.org/ebooks/53647
